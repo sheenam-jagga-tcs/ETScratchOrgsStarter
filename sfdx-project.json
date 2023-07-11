@@ -3,6 +3,7 @@
 		{
 			"path": "force-apps/doFirst",
 			"default": false
+			
 		},
 		{
 			"path": "force-apps/deploy",
